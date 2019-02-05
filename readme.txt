@@ -12,3 +12,5 @@
 ６．mypage機能開発
 
 ７．agreement機能開発
+
+８．handpass機能開発

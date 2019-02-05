@@ -10,3 +10,5 @@
 ５．user機能開発
 
 ６．mypage機能開発
+
+７．agreement機能追加

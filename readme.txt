@@ -11,4 +11,4 @@
 
 ６．mypage機能開発
 
-７．agreement機能追加
+７．agreement機能開発

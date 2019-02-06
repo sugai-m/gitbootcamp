@@ -14,3 +14,5 @@
 ７．agreement機能開発
 
 ８．handpass機能開発
+
+９．テスト・バグ修正
